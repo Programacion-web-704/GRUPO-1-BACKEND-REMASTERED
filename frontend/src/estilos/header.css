@@ -1,0 +1,23 @@
+
+/*
+Comentario 1
+Comentario 2
+*/
+
+/* Comentario */
+
+
+header {
+    opacity: 0.6;
+}
+
+header > div {
+    background-position: 50%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}

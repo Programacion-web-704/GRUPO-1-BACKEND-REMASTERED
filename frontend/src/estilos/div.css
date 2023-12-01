@@ -1,0 +1,12 @@
+
+div{
+    text-align: center;
+}
+div > ul{
+    text-align: center;
+    display: grid;
+    place-items: center;
+    margin: auto;
+    height: 100px;
+    width: 200px;
+}

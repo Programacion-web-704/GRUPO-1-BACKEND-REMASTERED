@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "nombres": "Crisbeth",
+    "apellidos": "Sovero",
+    "doc_iden": "72705014",
+    "numero": "20214446",
+    "correo": "crisbethsovero@gmail.com",
+    "contraseña": "1234",
+    "rol": "alumno",
+    "foto": ""
+  },
+  {
+    "id": 2,
+    "nombres":" david" ,
+    "apellidos" :"vela",
+    "doc_iden": "12345673",
+    "numero": "987654321",
+    "correo": "d@gmail.com",
+    "contraseña": "123",
+    "rol": "alumno",
+    "foto": ""
+  },
+  {
+    "id": 3,
+    "nombres": "",
+    "apellidos": "",
+    "doc_iden": "",
+    "numero": "",
+    "correo": "",
+    "contraseña": "",
+    "rol": "",
+    "foto": ""
+  },
+  {
+    "id": 4,
+    "nombres": "",
+    "apellidos": "",
+    "doc_iden": "",
+    "numero": "",
+    "correo": "",
+    "contraseña": "",
+    "rol": "",
+    "foto": ""
+  }
+]

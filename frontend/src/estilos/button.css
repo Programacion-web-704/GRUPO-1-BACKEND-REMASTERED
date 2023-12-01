@@ -1,0 +1,18 @@
+button{
+  background-color: green; /* Color de fondo */
+  color: white; /* Color del texto */
+  padding: 10px 20px; /* Espaciado interno */
+  margin: 5px; /* Margen entre botones */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cursor apuntador al pasar el ratón */
+  box-shadow: 2px 2px 5px gray;
+  transition: background-color 1s ease; /* Agregar una transición suave al cambio de color */
+
+
+}
+button:hover {
+    background-color: greenyellow;
+  }
+
+  

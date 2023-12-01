@@ -1,0 +1,55 @@
+nav {
+    background-color: gray; /* Color de fondo de la barra */
+    width: 10%; /* Ancho de la barra vertical */
+    height: 100%; /* Altura de la barra, ocupará toda la altura de la ventana */
+    position: fixed; /* La barra se mantendrá fija mientras te desplazas por la página */
+    display: flex;
+    flex-direction: column;
+    top:0;
+    bottom: 0;
+    left:0;
+
+}
+
+nav > ul {
+    list-style-type: none;
+}
+
+nav > ul > li {
+    margin-bottom: 10px; /* Espacio entre elementos de la lista */
+
+}
+nav > ul > li > a{
+    background-color: green;
+    color: white;
+    display: block;
+    padding: 10px;
+    border-color: 2px white;
+    border-style: solid;
+    border-radius: 5px;
+    text-decoration: none;
+    box-shadow: 2px 2px 5px black;
+    transition: background-color 1s ease;
+}
+
+/* seudo clases */
+nav ul a:focus {
+    color : black;
+    border-color: yellowgreen;
+
+}
+
+nav ul a {
+    color : yellow;
+    border-color: yellowgreen;
+
+}
+
+main {
+    margin-left: 220px;
+}
+
+
+
+
+
